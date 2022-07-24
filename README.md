@@ -1,2 +1,2 @@
 # GitFlowSample
-- vscode vscode testest
+- vscode vscode
